@@ -1,0 +1,385 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of that famous and notable victorie obtained at Milford-Haven against the Earle of Carbery his forces; by the admirall and vice-admirall of the Irish Seas. The manner of the fight, the taking of the town of Tinby, two ships and foure castles with their ordnance. Also a list of the names of the commanders taken, with six or seven hundred common souldiers now prisoners: with their severall letters and summons sent to the abovesaid towne and castles, and their answers. Written by Captaine William Smith Vice-Admirall and Commander of his Majesties ship the Swallow imployed in that service; and by him presented to the Right Honourable Robert, Earle of Warwick, Lord High Admirall of England. Printed according to order.</title>
+            <author>Smith, William, Vice-Admiral.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84210</idno>
+            <idno type="STC">Wing E3680</idno>
+            <idno type="STC">Thomason E3_12</idno>
+            <idno type="STC">ESTC R3730</idno>
+            <idno type="EEBO-CITATION">99872475</idno>
+            <idno type="PROQUEST">99872475</idno>
+            <idno type="VID">124912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124912)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E3[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of that famous and notable victorie obtained at Milford-Haven against the Earle of Carbery his forces; by the admirall and vice-admirall of the Irish Seas. The manner of the fight, the taking of the town of Tinby, two ships and foure castles with their ordnance. Also a list of the names of the commanders taken, with six or seven hundred common souldiers now prisoners: with their severall letters and summons sent to the abovesaid towne and castles, and their answers. Written by Captaine William Smith Vice-Admirall and Commander of his Majesties ship the Swallow imployed in that service; and by him presented to the Right Honourable Robert, Earle of Warwick, Lord High Admirall of England. Printed according to order.</title>
+                  <author>Smith, William, Vice-Admiral.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Moses Bell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>25. Iuly 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carbery, Richard Vaughan, --  Earl of, 1600?-1686 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Milford Haven (Wales) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124912:1" rendition="simple:additions"/>
+            <p>An exact RELATION Of that famous and notable VICTORIE Obtained at
+<hi>Milford-Haven</hi> againſt the Earle of <hi>Carbery</hi> his Forces; by the Admirall and Vice-Admirall of the Iriſh Seas. The manner of the Fight, the taking of the Town of <hi>Tinby,</hi> two Ships and foure Caſtles, with their Ordnance. Alſo a Liſt of the Names of the Commanders taken, with ſix or ſeven hundred common Souldiers now priſoners: With their ſeverall Letters and Summons ſent to the aboveſaid Towne and Caſtles, and their Anſwers.</p>
+            <p>Written by Captaine WILLIAM SMITH Vice-Admirall and Commander of his Majeſties Ship the <hi>Swallow</hi> imployed in that Service: And by him preſented to the right Honourable ROBERT Earle of Warwick, Lord high Admirall of ENGLAND.</p>
+            <p>Printed according to Order.</p>
+            <p>
+               <hi>London</hi> printed by <hi>Moſes Bell,</hi> 25. Iuly
+1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:124912:2"/>
+            <pb n="1" facs="tcp:124912:2"/>
+            <opener>
+               <salute>Right Honourable, and my very good Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N the proceed of the Fleet on our Iriſh Voyage, you may be pleaſed to take notice, that on the 18. Ja<g ref="char:EOLhyphen"/>nuary 1643. we ſet ſaile in Pli<g ref="char:EOLhyphen"/>mouth Sound, and after much fowle weather and contrary winds beating about the Lands end, it pleaſed God to bring part of the Fleet ſafe to Anchor in
+<hi>Milford-Haven</hi> on the 23. of the ſame, <hi>viz.</hi> the Leopard Regent, the Swallow, the Leopard Merchant, Provi<g ref="char:EOLhyphen"/>dence Merchant, and Creſcent Frigot, and within three dayes after the Proſperous and the two Lerpoole Veſſels came to <hi>Milford.</hi> But through the neglect of Captaine
+<hi>Plunket</hi> and Captaine <hi>Williams,</hi> the ſaid Veſſels were ne<g ref="char:EOLhyphen"/>ceſsitated to continue for the ſpace of ſeven weeks at
+<hi>Milford,</hi> it being their charge to have conveyed them to their deſired Port. And at our arrivall we found at Anchor in the Haven the Globe of <hi>Briſtoll,</hi> and a ſmall ſhip which arrived at <hi>Milford</hi> eight dayes be<g ref="char:EOLhyphen"/>fore we came in, and had brought from <hi>Briſtoll</hi> Ammunition to fortifie the Harbour, as great Guns, Powder, Bullet, and other Proviſions, and had landed them at <hi>Prickspill,</hi> which lyeth on the North ſide of the Harbour, where the enemy had made a Fort and fortified it; into which Pill the Globe and the other Ship having made us from the mouth of the Harbour let ſlip and run. And my Admirall in purſuit came before the Pill where were ex<g ref="char:EOLhyphen"/>changed divers Shots, but no hurt done on either ſide: The Ad<g ref="char:EOLhyphen"/>mirall perceiving no conſiderable ſervice or execution could be performed on the Fort or Ships, they being drawne about a neck of Land behinde the Fort, he came to Anchor before it within<pb n="2" facs="tcp:124912:3"/>ſhot, and the Swallow a head of him, and the reſt of the Fleet a head of the Swallow inclining to the Southſide. Some three dayes after in the night the enemy drew a Gun out of the Fort to the Weſtward of the Pill, and at breake of the day began a morning ſalute to the Swallow, who to gratifie their courteſie-anſwered them; and after many ſhot their Gun ſplit, and ſo they withdrew it away. At that time it proved very ſtormy weather, in ſo much that our Ships hauled home their Anchors, wherefore upon the firſt opportunity the Leopard and Swallow were inforced to weigh and come to Anchor on the South-ſide before Angle, a Birth where uſually the Kings Ships ride when they come into that Harbour. But ſhortly after the Admirall ſent the Proſpe<g ref="char:EOLhyphen"/>rous and the Leopard Merchant, to ride before the Pill, to hinder (if it were poſsible) the ſtrengthning of their Worke, which dayly the enemy aſſaid to doe: From the Ships were divers ſhots made daily at their Works, as alſo from the Fort at the Ships but no conſiderable dammage received, only the Leopard Merchant received a ſhot in her quarter, which dropt into the Maſters bed. And to annoy the Fort the more, the Admirall (with the joynt conſent of the Commanders) built a Fort on the South ſide over againſt the Pill, and placed therein a Demy-Cannon, wherewith we played into their Works, which was a great incouragement unto many in the County to adhere unto the well-affected party (who at that time were very weake.)</p>
+            <p>Thus having preſented to your Lordſhip with our proceedings at Sea, in and about the Harbour, you may be pleaſed to take a view of the correſpondence we held aſhore, both with the ill and well affected. After our happy arivall, I call it happy, in reſpect of the great deliverance it pleaſed the moſt mighty Preſerver of all things to afford to the diſtreſſed Inhabitants of <hi>Pembrooke,</hi> and the well-affected Gentlemen of that County. The next morning af<g ref="char:EOLhyphen"/>ter we came to Anchor in the Haven, Colonell <hi>Langborne</hi> and the Major of <hi>Pembrooke</hi> came aboard the Leopard, and informed my Admirall with the feeble condition the well-affected party was in, as alſo of the ſtrength, power, and inſolency of the adverſe party: For after the enemy had fortified the North ſide of the Harbour, and intending to fortifie the South ſide within a day or two, had not our arrivall fruſtrated that deſigne. The Enemy preſuming on their ſtrength, caſt off their ſheeps cloathing, in which they had ſo long deluded the people, and demonſtrated<pb n="3" facs="tcp:124912:3"/>themſelves to be like unto the reſt of their Confederates (Raven<g ref="char:EOLhyphen"/>ing Wolves:) The Earle of
+<hi>Carbery</hi> having voted that after the Harbour was fortified, hee would plunder the Towne of <hi>Pem<g ref="char:EOLhyphen"/>brooke,</hi> and the Houſes of the Gentlemen who had adhered to that party, and that their perſons ſhould be put to death by cruell tor<g ref="char:EOLhyphen"/>tures; the Maior of <hi>Pembrooke;</hi> they ſaid, ſhould be put into a bar<g ref="char:EOLhyphen"/>rell of nailes and brought to <hi>Prickspill,</hi> and from the top of a hill ſhould be rolled downe into the Sea. This report ſo terrified the Gentlemen, that they fled from their houſes and hid themſelves in obſcure places (in diſguiſe) and ſent their wives and children to
+<hi>Tinbie,</hi> where his Lordſhip then lay, humbly to ſupplicate his Lordſhip to grant them protections that their Houſes might not be plundered nor their perſons abuſed by the rude Souldiers, among whom there was a reverent aged Gentlewoman, the wife of one Maſter <hi>Griffith White,</hi> who had in her houſe eight ſonnes and eight daughters who were Virgins, and foure ſmall grand Children in all number 20. with divers ſervants both Male and Female: This Gentlewoman preſsing his Lordſhip to commiſe<g ref="char:EOLhyphen"/>rate her ſad eſtate in caſe her houſe ſhould be plundered, deſired his protection, aſſuring his Lordſhip that whenſoever he would be pleaſed to give her husband leave to wait on him ſhe did not doubt but that her husband would give his Lordſhip ample ſatiſ<g ref="char:EOLhyphen"/>faction in all his lawfull demands. His Lordſhip replied, Hee would finde a time to ſpeake with her husband, but as for a Pro<g ref="char:EOLhyphen"/>tection he would grant her none. The Gentlewoman, with teares in her eyes, deſired his Lordſhip to look on her children, who in point of honour hee ſtood ingaged to protect, as alſo the chaſtity of Matrons and Virgins, the which (without his Lord<g ref="char:EOLhyphen"/>ſhips protection) ſhe ſaid muſt undoubtedly be violated, and her family periſh. To which his Lordſhip anſwered with divers re<g ref="char:EOLhyphen"/>proaches and ſome Jeaſts among, That it were better her children and Family ſhould periſh, then that the King ſhould want means to perfect his deſigne. To which ſhe ſaid, The King could not want, if His Majeſtie would be graciouſly pleaſed to be content with what God and the Laws of the Land have provided. At which his Lordſhip flung out of the roome, leaving the Gentle<g ref="char:EOLhyphen"/>woman with teares in her eyes, and ſo ſhe departed to her houſe full of griefe and penſive thoughts. A paſſage from his Lordſhip of ſo barbarous a deportment, that I beleeve Hiſtory can ſcarce parallel to have proceeded from any Heathen: And if theſe be the<pb n="4" facs="tcp:124912:4"/>loyall Subjects who fight for the Goſpell, the Kings Honour, and the Subjects Liberty, I leave it to every mans judgement to de<g ref="char:EOLhyphen"/>termine.</p>
+            <p>The lamentable condition of the well-affected, being by the Admirall and Commanders diſputed; It was demanded of Colo<g ref="char:EOLhyphen"/>nell <hi>Langho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> and the Major, what force the well-affected party was able to rayſe, to oppoſe his Lordſhip: It was by them reply<g ref="char:EOLhyphen"/>ed, that they could not rayſe above 40 Horſe, and about 60 Foot; Then it was demanded in caſe there ſhould be 200 Sea-men landed well armed, whether they would joyne with them in endeavou<g ref="char:EOLhyphen"/>ring to drive his Lordſhip out of the County, for unleſſe they would be active, they muſt reſolve to prepaire to goe away with the Fleet, in regard a conſumption of Victualls would force us to depart that harhour; The Colonell and Major, with the well-affected Gentry, like gallant men, who had rather dye then out<g ref="char:EOLhyphen"/>live the honour of their Country, or to ſee the ruine thereof, by a Jeſuiticall &amp; Popiſh Faction, reſolved to put themſelves under the providence of the Almightie, and with the helpe of our Sea-men to affront the Enemy, the which was without delay put in execu<g ref="char:EOLhyphen"/>tion: And on the 13 of <hi>February</hi> we fell on a Garriſon of the Ene<g ref="char:EOLhyphen"/>mies, in a ſtrong hold called
+<hi>(Stackpoole)</hi> the Mannor houſe of one Maſter <hi>Roger Lort,</hi> one which with our great Guns, having made a breach after 8 houres aſſault, we tooke with the loſſe of two men, and many wounded on both ſides; ſhortly after they fell on a<g ref="char:EOLhyphen"/>nother Garriſon of the Enemies, called
+<hi>(Troyffloine)</hi> lying within a mile of <hi>Tinbye,</hi> out of which Towne his Lorſhip iſſued with about 100 Horſe and Foot, intending to have relieved <hi>Troyffloine,</hi> and faced our Forces, on whom we let flye a peece of Ordnance, whereat his Lordſhip wheeled about with all his Forces, and ran into the Towne; Our Forces perſecuting there aſſault upon the Garriſon, tooke it, and therein 40 Horſe, and 150 Armes, with the loſſe of two men on our ſide, and ſix on the Enemies. God gi<g ref="char:EOLhyphen"/>ving our ſmall Forces this good ſucceſſe, they retired to <hi>Pembrooke</hi> to refreſh their men, and to inable themſelves for a more potent deſigne on the Enemy, intending to oppoſe their whole bodie which conſiſted 1200 men, foot and horſe, which lay in and about <hi>Haverford-Weſt,</hi> then his Lordſhips Rendezvouze; but his Lord<g ref="char:EOLhyphen"/>ſhip hearing of this deſigne, having fortyfied <hi>Haveford-Weſt,</hi> and placed moſt of his ſtrength there; his Lordſhip like a valiant Commander with 20. Horſe, ſome foot, and 4. feild peecs (ranne<pb n="5" facs="tcp:124912:4"/>away) telling the reſt of the Commanders that he road unto the adjacent County to raiſe more forces, and that he would ſuddenly returne. Now when our men were refreſhed and 6. field pieecs mounted on Carriages, with Wagons to convey there Amuniti<g ref="char:EOLhyphen"/>on and Victualls, they reſolved to fall on the fort at the Pill, and on the 22. of Feb. Colonell <hi>Langborne</hi> and the Major of <hi>Pembrooke</hi> ſent aboard the Admirall, to deſire that our boates might be ſent to the paſſage to convey over on the enemies ſide there Artillery, Wagons, and Proviſions, the which was done on Fryday the 23. And about three of the clocke in the morning they were all lan<g ref="char:EOLhyphen"/>ded, conſiſting of about 300. Horſe and Foot, with ſixe field Pieces of Ordnance, who proceeding on their march, their Horſe in the front, advanced before the Pill; about twelve a clocke at noone our Ships alſo were at Anchor before the Fort, the Leo<g ref="char:EOLhyphen"/>pard Regent and the Swallow road to the Weſtward, and the Pro<g ref="char:EOLhyphen"/>ſperous and the Leopard Merchant road to the Eaſtward, plying our Ordinance into the Fort, and when our land forces had drawne up their Artillery, they played into the Fort from a hill which lay to the Eaſtward of it, and were anſwered againe; The Horſe and Foot did skirmiſh from their Ambuſcodoes, but on this day no man was either ſlaine or hurt on either ſide, night comming on, cauſed a Ceſſation: Our land Forces quartering about their Artillery, lay in the field before the Fort, it being a bitter cold night. The next morning being Saturday, the 24. by breake of the day, from our Ships and land Forces, we began to plye our Ordnance, from the <hi>Swallow</hi> was a ſhot made into the Fort which tooke off the head of one man, and the poſteriours of another, of which he dyed the next day; our Horſe and Foot behaved them<g ref="char:EOLhyphen"/>ſelves valiantly that day, and beat the Enemy from their Ambuſ<g ref="char:EOLhyphen"/>cadoes, and with the Enemy entred their Fort; and then the Ene<g ref="char:EOLhyphen"/>my cryed quarter, the which our Commanders in Immitation of their Heavenly Father, who is the God of mercy, granted farre above their deſerts and ſpared their lives, who had formerly voted that if they ſhould prove Conquerours, they would kill the Dogs, and raviſh the Bitches, and drowne the Whelpes; moſt inhu<g ref="char:EOLhyphen"/>maine language! did it not proceed from thoſe that adheare to the Beaſt? And therefore proper for them to ſpeake diabolicall and beaſtiall language. In the Fort were taken, Armes 160. peecs of Ordnance 18. Souldiers 240. Commanders 26. their names and qualities are expreſſed in the Schedule annexed. In the
+<hi>Pill</hi> were <pb n="6" facs="tcp:124912:5"/>taken two Ships, <hi>viz.</hi> The
+<hi>Globe</hi> of <hi>Briſtoll,</hi> in her 12 pecces of Ord<g ref="char:EOLhyphen"/>nance, and by a ſhot from the <hi>Globe,</hi> was one of the <hi>Swallow</hi> men ſlaine on the ſhoare by his owne folly, the other Ship called the <hi>Providence,</hi> had belonging to her 10 great Guns, but the enemy had carried them to
+<hi>Haverford-Weſt;</hi> In the taking of this Fort, the protecting power of the Almightie, I hope by us ſhall never be for<g ref="char:EOLhyphen"/>gotten, for it was his owne arme that got the Victory, to whom be aſcribed, all honour and glory for ever and ever; for in taking thereof, there was not one man ſlaine either by Sword or ſmall ſhot. When the Enemy was routed, ſome of their Souldiers
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d to <hi>Haverford-Weſt,</hi> and informed the Commanders there, of
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> loſſe of the Fort, and that all their Commanders and Souldiers therein were taken Priſoners: At which newes, it is reported Sir <hi>Henry Vaughan,</hi> with the reſt of the Commanders, began to rage and ſweare, (like mad-men) and as a Beare robbed of her whelpes, ran up and downe the ſtreets, (crying) beat up our Drums, gather our Horſe and Foot together, for we will out this night and be revenged of the Round-headed Parliament Dogs; and having with this bravado drawne their Forces into a bodie, being about 450. Sir <hi>Iohn Stepney</hi> the Governour of that Towne, like a prudent Overſeer went into the Churchyard to ſee if he could diſcerne our Forces to approach towards <hi>Haverford-Weſt;</hi> about halfe a mile from the Towne he diſcovered a heard of young black Bul<g ref="char:EOLhyphen"/>locks comming towards him; thoſe horned beaſts ſo amuzed the Knight, that being afraid of his owne ſhadow, his Worſhip ran to the head of their Forees, and ſwore (Gods wounds) the Round-headed Dogs were comming; at which report they marched out of the Towne, and calling to minde the valiant example of their Lieutenent-Generall <hi>Carbery,</hi> they wheeled about and ranne away: The Boyes of the Towne perceiving them to run, fell on their Rear, and tooke from them 60. Muskets. This diſorder in the Rear made thoſe in the Front beleeve that the Round-heads were at their heels indeed, the feare thereof metamorphoſed all her couzen Taffies into Mercuries, and with winged ſpeed every man fled for his life, ſome threw away their Armes, and thoſe that had the charge of the Powder flung it into the River; and in this manner was the Towne of <hi>Haverford-Weſt</hi> ſurrendered, verifying that ſaying of the Kingly Prophet <hi>David, The wicked flyeth when no man purſueth them:</hi> when the enemy fled, they left behinde them in
+<hi>Haverford-Weſt</hi> 100. red Coats which were never <pb n="7" facs="tcp:124912:5"/>worne, a quantity of Victuals, &amp; 10. peeces of Ordnance, all which argued, they wanting nothing but a good Cauſe to maintaine.</p>
+            <p>Now our Forces being againe refreſhed, having a Demy-can<g ref="char:EOLhyphen"/>non and a Demy-culverine mounted on field Carriages and being ſupplyed from our Ships, with Powder and all other Ammuniti<g ref="char:EOLhyphen"/>on, they marched towards
+<hi>Tinbye</hi> the ſixth of <hi>March,</hi> on the ſame day the
+<hi>Swallow</hi> and <hi>Creſcent</hi> Frygot, with the <hi>Proſperous Merchant,</hi> ſet ſayle from <hi>Milford,</hi> and came to anchor before
+<hi>Tinbye,</hi> where I ſummoned the Governour and Major, to ſurrender the Towne for the ſervice of King and Parliament, but receiving a negative anſwer, I deſired the Governour and Major, to ſend out of the Towne all the women and children, for unleſſe they would com<g ref="char:EOLhyphen"/>ply, I muſt in diſcharge of my dutie uſe my utmoſt endeavours to force them thereunto: The ſame night our land Forces came within two mile of the Towne, from whence Colonell <hi>Langhorne</hi> ſent aboard the <hi>Swallow,</hi> and deſired me to ſummon the Towne, the which I had done before his Letter came, and returned the Colonell their anſwer, and receiving no ſatisfaction from the Go<g ref="char:EOLhyphen"/>vernour or Major, the next morning about eight of the clocke we began to play into the Town with our Ordnance from our ſhips, &amp; about one a clocke in the afternoone our land Forces came before the Towne, and having placed their Demy-cannon within a quar<g ref="char:EOLhyphen"/>ter of a mile of the Towne they fell to battery, and ſo we continu<g ref="char:EOLhyphen"/>ed three dayes; the ſmall ſhot on both ſides performed well, the Towne was maintained with brave reſolution, and more bravely aſſaulted by our Sea-men and Land-men, preſenting their naked bodies even in the face of danger; Commiſſary <hi>Gwine</hi> Governour of that Towne, ſhewed himſelfe to be a man of undaunted ſpirit, iſſuing out of the Towne bringing up his ſmall ſhot to make good their Ambuſcadoes, and his valour expoſed that Towne to una<g ref="char:EOLhyphen"/>voydable miſery, in voting he would neither give nor take quarter; but I may ſay of his valour as
+<hi>S. Paul</hi> ſaid in another caſe, to cer<g ref="char:EOLhyphen"/>tain Chriſtians in his time; <hi>Shall I praiſe him for this, no, I praiſe him not;</hi> for all our actions that tend not to the glory of God, lead us to our deſtructions; to which indeed this reſolution of his had almoſt brought him, for leading on his men to face our ſmall ſhot, who plyed their Musquets ſo faſt, that his men forſooke him, and him<g ref="char:EOLhyphen"/>ſelfe received a ſhot under his right pap, which inforced him to retreat alone in a orderly pace; he was no ſooner entred the<pb n="8" facs="tcp:124912:6"/>Towne, but the Maſter Gunner thereof was alſo ſlaine, in which we muſt not omit to manifeſt Gods providence towards us; for our ſmall ſhot having forced the Enemy out of their Ambuſcadoes, purſued them alſo to the Towne-gate, their Gunner having loa<g ref="char:EOLhyphen"/>den a peece of Ordnance with caſe ſhot, and watching for ſuch an opportunitie, having travyſed the Gun, ſaid to thoſe that ſtood by, <hi>You ſhall ſee me make a ſlaughter of thoſe Round-heads:</hi> At which words, a ſmall ſhot from our Forts hit him in the head, after which he he never ſpake more; whoſe fall ſo daunted the Enemy Commanders, &amp; Souldiers, that forthwith they cried out for quar<g ref="char:EOLhyphen"/>ter: The firſt that forced their entry into the Town was C. <hi>Peter Whittie,</hi> with his company of Sea-men and ſub-ordinate Officers; Lieutenant <hi>Greene</hi> and Enſigne
+<hi>Dodſon,</hi> with Lieutenant <hi>Colte,</hi> who led on the
+<hi>Swallow</hi> men, and immediately after them Colonell <hi>Langhorne</hi> with his Troopes of Horſe. This Towne of <hi>Tinbie</hi> was held by the judgement of the moſt Judicious almoſt impregna<g ref="char:EOLhyphen"/>ble, it being not to be entred but by ſingle foyle, wherein were ta<g ref="char:EOLhyphen"/>ken betweene three or 400 Priſoners, as many Armes, 7 peeces of Ordnance, all which were taken on Saturday the 9 of <hi>March,</hi> and on Sunday the 10. <hi>Carew-Caſtle</hi> was ſurrendered, in which was conſummated the totall ſubduing of that Malignant &amp; inſulting Partie. In the County of <hi>Pembrooke,</hi> wherein the Lord of Hoſts gave his ſervants the Victory over his and their Enemies, which gives us juſt cauſe to put our confidence in him, and in that com<g ref="char:EOLhyphen"/>fortable Ejaculation expreſſed by holy <hi>David,</hi> to cry and ſay, by this we know, <hi>That thou Lord favoureſt us, in that thou haſt not ſuffered our Enemies to triumph over us.</hi>
+            </p>
+            <closer>
+               <signed>The true Relation of him, who is a moſt humble and faithfull Servant in this great Worke, according to the truſt repoſed by your Lordſhip.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="lists_of_commanders">
+            <pb n="9" facs="tcp:124912:6"/>
+            <list>
+               <head>A Liſt of the names of the worthy valiant Commanders now in action in the County of <hi>Pembrooke,</hi> in the ſervice of the King and Parliament, which oppoſed the Earle of <hi>Carbery.</hi>
+               </head>
+               <item>
+                  <hi>ROwland Langhorne</hi> Colo<g ref="char:EOLhyphen"/>nell, and Commander in chiefe.</item>
+               <item>
+                  <hi>Simon Thelwell</hi> Colonell, and Voluntier.</item>
+               <item>
+                  <hi>Thomas Langhorne</hi> Serjeant-Ma<g ref="char:EOLhyphen"/>jor.</item>
+               <item>Captaine <hi>Rice Powell.</hi>
+               </item>
+               <item>Captaine <hi>Walter Cuney.</hi>
+               </item>
+               <item>Captaine <hi>Iohn Poyer.</hi>
+               </item>
+               <item>Captaine <hi>Peter Whitty.</hi>
+               </item>
+               <item>Lieutenant <hi>Owgin.</hi>
+               </item>
+               <item>Lieutenant <hi>Richard Iones.</hi>
+               </item>
+               <item>Coronet <hi>Powell.</hi>
+               </item>
+            </list>
+            <list>
+               <head>A Liſt of the names of the Malignant Commanders taken priſoners at the <hi>Pill,</hi> with their inferiour Officers in the County of <hi>Pembrooke,</hi> by thoſe gallant Commanders above ſpecified,
+<hi>viz.</hi>
+               </head>
+               <item>
+                  <hi>IOhn Barlow</hi> Eſquire, Maſter of the Ordnance, and Captain of a troop of Horſe.</item>
+               <item>Captaine <hi>Edmond Bradſhaw.</hi>
+               </item>
+               <item>Captaine <hi>Iohn Bradſhaw.</hi>
+               </item>
+               <item>Captaine <hi>Iohn Butler.</hi>
+               </item>
+               <item>Captaine <hi>Arnold Butler.</hi>
+               </item>
+               <item>Captaine <hi>William Mary-Church.</hi>
+               </item>
+               <item>Captaine <hi>Iohn Price.</hi>
+               </item>
+               <item>Captaine <hi>Francis Edmonds.</hi>
+               </item>
+            </list>
+            <p>From the Earle of <hi>Carbery</hi> we took in this action foure Caſtles, 53. peece of Ordnance, about ſix or ſeven hundred ſouldiers, as ma<g ref="char:EOLhyphen"/>ny Arms, and the whole County of <hi>Pembrooke</hi> totally ſubdued and unanimouſly have taken the Covenant, and there is great hopes that
+<hi>Carmarthen</hi> and <hi>Cardiganſhire</hi> will comply with us.</p>
+            <list>
+               <head>Commanders run away from <hi>Haverford-Weſt.</hi>
+               </head>
+               <item>SIr <hi>Henry Vaughan</hi> Major-Generall of the Army.</item>
+               <item>Sir <hi>Iohn Stepney</hi> Knight and Baronet, Governour of
+<hi>Haverford-Weſt.</hi>
+               </item>
+               <item>Sir <hi>Francis Floyde</hi> Knight, Captaine of a troop of Horſe.</item>
+               <item>
+                  <hi>Iames Martin</hi> Captaine of a troop of Horſe.</item>
+               <item>Captaine <hi>Iohn Edwards.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="10" facs="tcp:124912:7"/>
+               <head>Commanders taken at <hi>Tinby,</hi> with their inferiour Officers.</head>
+               <item>
+                  <hi>IOhn Gwyn</hi> Governour of <hi>Tinby,</hi> and Commiſary of the Army.</item>
+               <item>
+                  <hi>David Gwyn</hi> Colonell.</item>
+               <item>
+                  <hi>Thomas Butler</hi> Lieutenant Colonel, and high Sheriffe for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Pembrooke.</hi>
+               </item>
+               <item>Captaine <hi>George Lewis.</hi>
+               </item>
+               <item>Captaine <hi>Thomas Methell.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="letters_and_summons">
+            <div type="letter">
+               <head>A Letter ſent in generall to the Gentlemen of the County of
+<hi>Pembrooke,</hi> at the requeſt of the well-affected.</head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>AS in duty bound, I have alwayes in all fidelity highly honou<g ref="char:EOLhyphen"/>red my King and ever beene a lover of my Country, and as I ſtand ingaged, God hath called me to be a ſervant to both; and in diſcharge of the truſt impoſed, I am come hither to deſire your compliance in the protection of the Goſpell in its inherent puri<g ref="char:EOLhyphen"/>ty, as alſo the Kings honour, with the Subjects liberty, a worke that every good Chriſtian and loyall Subject ought to be active in, with tender of both his life and fortunes, in which you have the obligation of our Saviour to ſave you harmleſſe, who faith, <hi>If any man ſhall hazard his life or fortunes, or what is moſt deare unto him for my ſake, ſhall undoubtedly preſerve them:</hi> And for your Coun<g ref="char:EOLhyphen"/>ter ſecurity, you have three Kingdoms in the body of the Parlia<g ref="char:EOLhyphen"/>ment ingaged. Now why ſtand you gazing like the timo<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Iſ<g ref="char:EOLhyphen"/>raelites on the hoſt of the Philiſtims? Did not a little youth, <hi>David</hi> by name, being inſpired with the Spirit of God ſlay their Champion, and overthrew that idolatrous Hoſt? And ſhall a Jeſuiticall and Popiſh Army, with a malignant party as odious in the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight of God as thoſe curſed Philiſti<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s, make you diſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>? No, be comforted, God and the State hath preſented unto you a more probable meanes of deliverance in ſending this Fleet to your preſervation, conſiſting of twelve warlike Ships, with ſtore of Ammunition and Land Forces, the major part whereof is not yet come in, occaſioned by foule weather at Sea; but upon the
+<pb n="11" facs="tcp:124912:7"/>firſt opportunity of winde and weather undoubtedly will arrive; and by Gods aſsiſtance I am confident, That if the Gentlemen of this County will joyne with me in my endeavours, I make no doubt but we ſhall drive that Malignant rout (who endeavour to inſlave this Nation under the yoke of the Antichriſtian beaſt) not onely out of this County, but conſequently out of the Dominion of <hi>Wales:</hi> wherefore I ſhall deſire the Gentlemen to give me their ſpeedy reſolutions; and if any of them ſhall not comply, let ſuch looke for no favour from me, if it ſhall pleaſe God to ſend us the victory, but what Gods enemies and deſtroyers of the Coun<g ref="char:EOLhyphen"/>try deſerve. And let not any mans heart be afraid, for God hath promiſed to be with his in his protecting power, even to the end of the world, to whoſe protection I commit you all: And expe<g ref="char:EOLhyphen"/>cting your Anſwer, I remaine and reſt</p>
+               <closer>
+                  <signed>Ever ready to ingage my life with you in this great worke,</signed>
+               </closer>
+               <argument>
+                  <p>
+                     <hi>Not anſwered.</hi>
+                  </p>
+               </argument>
+            </div>
+            <div type="letter">
+               <argument>
+                  <p>
+                     <hi>A Copy of the Declaration of the Honourable Houſes of Parliament now ſitting at Weſtminſter, bearing date the firſt of February comming to my hand, I cauſed divers Copies there<g ref="char:EOLhyphen"/>of to be taken, and with the Letter following I ſent one to</hi> Pem<g ref="char:EOLhyphen"/>brooke, <hi>another to</hi> Haverford-Weſt, <hi>and one to</hi> Tinbie.</p>
+               </argument>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>THat you may ſee with what ſincerity of heart we deſire you maybe reduced to a right underſtanding of the unhappy condi<g ref="char:EOLhyphen"/>tion you are now in, we ſhal not neglect neither our Pen nor Sword, the one to diſcover unto you the ſtrong deluſions of that Anti<g ref="char:EOLhyphen"/>chriſtian beaſt, with whom it is foretold in holy Writ, <hi>That the Princes of the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhall
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in confederacy,</hi> as alſo they with him undoubtedly muſt periſh, and many millions of poore ſoules ſo miſled. Oh be wiſe, and timely prevent ſuch certaine ruine by uniting your ſelves with the true Profeſſors of the Goſpell, by whom God hath ſaid, he would pull that beaſt from his Throne, <hi>and they ſhall reward him ſevenfold for all the evill he hath done unto the S<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ts.</hi> Now if you ſhall joyne with us in this great worke, then<pb n="12" facs="tcp:124912:8"/>ſhall our Swords be active in your preſervation; and for your more ample ſatisfaction we ſhall preſent you with a moſt perſpi<g ref="char:EOLhyphen"/>cuous Perſpective, wherein you may perceive the perfect way both to your Terreſtriall and Celeſtiall felicity, being a Copy of the laſt Declaration of the Honourable Houſes of Parliament; the which if you pleaſe to peruſe with a diſcerning
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udgement, you may ſee with what zeale and care thoſe Worthies of our Land have endeavoured to remove from your eyes thoſe Antichriſtian miſts, through which (as with an <hi>Ignis fatuns</hi>) you have beene ſo long miſguided. And becauſe we know that the Patient thirſts after the Cure we refer you to the application of the meanes pre<g ref="char:EOLhyphen"/>ſented in that Deelaration; the which if they may give you that ſatisfaction as may make you truly happy in joyning with us, our endeavours are fully ſatisfied, and you ſhall ever finde us yours,</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Richard Swanley.</hi>
+                        </item>
+                        <item>
+                           <hi>William Smith.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="summons">
+               <head>The Summons to the Towne of TINBIE.</head>
+               <div type="letter">
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>IN a former Letter unto you, wherein was preſented the late Declaration of the Honourable Aſſembly of Parliament; Wee the Commanders of His Majeſties Ships, deſired your Reſolutions, whether you would comply in the contents thereof, and joyne with us in the preſervation of the Goſpell, the Kings Honour, and the Kingdomes Safetie, to expell the Forces brought into the County by the Earle of <hi>Carbery,</hi> but receiving no anſwer, Wee are now come before your Towne, to let you know, that unleſſe you forthwith yeeld obedience thereunto, Wee ſhall uſe our beſt indeavours to force it. In which, if it ſhall pleaſe God to deliver you into our hands, you muſt expect no other fa<g ref="char:EOLhyphen"/>vour then what is due to Traytors, both to God and their Coun<g ref="char:EOLhyphen"/>try; wherefore I adviſe you ſeriouſly to conſider, and wiſely to provide for your preſent and future ſafety, and let us receive your ſpeedie Anſwer, that by your timely adhearing to us, you<pb n="13" facs="tcp:124912:8"/>may prevent the demoliſhing of your Towne, by the battering it about your eares with our Ordnance, and hoping you will pre<g ref="char:EOLhyphen"/>ſerve it as alſo the effuſion of much blood by your ſweet comply<g ref="char:EOLhyphen"/>ance, Wee remaine and reſt</p>
+                  <closer>
+                     <signed>As you may give us cauſe, your faith<g ref="char:EOLhyphen"/>full Friends to protect you.</signed>
+                  </closer>
+                  <postscript>
+                     <head>Poſt-ſcript.</head>
+                     <p>We further declare, That if the Commanders and Souldiers ſhall joyne with you in the ſurrendring of your Towne that they ſhall have quarter for their lives and to go whether they pleaſe, or continue and be received into the ſervice of King and Par<g ref="char:EOLhyphen"/>liament.</p>
+                  </postscript>
+               </div>
+               <div type="answer">
+                  <head>Their ANSWER.</head>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>YOurs we formerly received, with a Declaration their incloſed, which was required from us before we could peruſe the contents therof, which was the cauſe of our not returning any Anſwer therun<g ref="char:EOLhyphen"/>to, yours of this preſent we have received: Wherein you deſire us to complye with you for the preſervation of the Goſpell, and His Ma<g ref="char:EOLhyphen"/>jesties Honour, which is the worke we have vowed to maintaine with our lives and fortunes; and ſo doing, we hold our ſelves true Sub<g ref="char:EOLhyphen"/>jects, to God, our King, and Country. And whereas you threaten the demoliſhing of our Towne, which is not ours to diſpoſe of, but His Majeſties, all which we pray you to take into your ſerious conſidera<g ref="char:EOLhyphen"/>tions, as alſo the cry of the effuſion of much innocent blood; for Ane<g ref="char:EOLunhyphen"/>ſweare from the Commanders and Souldiers, we referre you to th- Letter you ſhall receive from the Governour of the Towne and Fort. Thus with our beſt reſpects, we take leave, and reſt</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Your ever loving Friends if you pleaſe,</hi>
+                        <list>
+                           <item>Richard Wyett Major.</item>
+                           <item>David Hamond.</item>
+                           <item>Richard Pric<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>d.</item>
+                           <item>John Rogers.</item>
+                           <item>Francis Longe.</item>
+                        </list>
+                     </signed> 
+                     <dateline>Tinbie
+<date>6th March, 1643. 44.</date>
+                     </dateline>
+                  </closer>
+               </div>
+            </div>
+            <div type="summons">
+               <pb n="14" facs="tcp:124912:9"/>
+               <head>The Summons of the Caſtle of <hi>Tinbie.</hi>
+               </head>
+               <div type="letter">
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>THeſe are to require you that upon ſight hereof, you imme<g ref="char:EOLhyphen"/>diately yeeld up the Fort to the uſe of the King and Parlia<g ref="char:EOLhyphen"/>ment; and ſo doing you ſhall be received into the protecti<g ref="char:EOLhyphen"/>on of that Aſſembly and injoy the benefit of Loyall Subjects. But in caſe you ſhall continue in your Rebellion you muſt expect to be proceeded againſt as Traytors to your King and Country, and e<g ref="char:EOLhyphen"/>nemies to God and the Proteſtant Religion; For if you ſhall make one ſhot at the King and Parliaments Ships, not one of you ſhall eſcape for his life if it ſhall pleaſe God to give us the Victory. Conſider of it, and let me receive your Reſolutions, in which if you pleaſe you ſhall find me</p>
+                  <closer>
+                     <signed>Your faithfull Friend to preſerve.</signed>
+                  </closer>
+               </div>
+               <div type="answer">
+                  <head>Their ANSWER.</head>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>THis Towne we hold as loyall Subjects to the Kings Majeſties uſe, for defence thereof we have his Majeſties gracious com<g ref="char:EOLhyphen"/>miſſion, which we will endeavour to maintaine with the hazard of our lives and fortunes againſt all oppoſers, by what colour or pre<g ref="char:EOLhyphen"/>tence ſoever. This is the reſolution of</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>John Gwynn.</item>
+                           <item>David Gwynn.</item>
+                           <item>Thomas Bot<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
